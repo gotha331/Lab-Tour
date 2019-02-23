@@ -1,0 +1,1 @@
+安装说明：直接将文件夹下的Flood-100 copy Photoshop\Plug-Ins目录下
